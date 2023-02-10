@@ -1,6 +1,6 @@
 const { expect } = require("chai")
 
-class login{
+class loginPage {
 
    constructor(){
     
@@ -47,4 +47,4 @@ class login{
    }
 }
 
-module.exports = new login()
+module.exports = new loginPage()
